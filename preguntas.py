@@ -1,6 +1,6 @@
 """
 Clasificación usando k-NN - Digits Dataset
------------------------------------------------------------------------------------------
+--------------------------------------------- --------------------------------------------
 En este laboratio se construirá un clasificador usando k-NN para el dataset de digitos.
 """
 import matplotlib.pyplot as plt
